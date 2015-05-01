@@ -14,7 +14,5 @@ Gulp
 
 
 **TODO**
-
-[ ] link dependencies
-
-[ ] provide installation instructions
+- [ ] link dependencies
+- [ ] provide installation instructions
