@@ -1,0 +1,4 @@
+.gitignore
+
+# Directories
+node_modules
